@@ -1,6 +1,7 @@
 
 import ExpenseDate from './ExpenseDate';
 import './ExpenseItem.css'
+import './Expenses'
 
 const ExpenseItem = (props) => {
     const expenseTitle = props.items.title ;
